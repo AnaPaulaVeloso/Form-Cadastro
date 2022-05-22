@@ -1,0 +1,2 @@
+# Form-Cadastro
+Crie uma página contendo um formulário de cadastro de usuário, permitindo que sejam informados os seguintes valores:  Nome completo; E-mail; Telefone (opcional); Endereço, contendo: Logradouro; Número; Bairro (opcional); Cidade e estado; CEP; Estado civil (solteiro(a), casado(a), divorciado(a), viúvo(a) ou separado(a)); Opção de preferência de contato (por e-mail ou por telefone); Opção "Li e concordo". Inclua botões para reiniciar e para enviar.
